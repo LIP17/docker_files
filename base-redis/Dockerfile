@@ -1,0 +1,1 @@
+FROM redis:6.0.10@sha256:cf2e126195f67e0a4a8a7d545ae91e4be2a43ce689acdcb9ec9c8449768ee1aa
